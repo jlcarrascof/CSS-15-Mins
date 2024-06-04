@@ -42,3 +42,11 @@ nav ul li {
 .clearfix {
     clear: both;
 }
+
+#content {
+    float: left;
+}
+
+aside {
+    float: left;
+}
