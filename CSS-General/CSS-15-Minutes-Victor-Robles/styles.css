@@ -52,9 +52,12 @@ nav ul li {
 
 aside {
     float: left;
-    width: 20%;
+    width: calc(20% - 20px);
     background: orange;
     min-height: 500px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
 }
 
 footer {
