@@ -51,6 +51,19 @@ nav ul li {
     padding: 40px;
 }
 
+.article {
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.article:first-child {
+    padding-top: 10px;
+    border-top: 1px solid #eee;
+}
+
 aside {
     float: left;
     width: calc(20% - 20px);
