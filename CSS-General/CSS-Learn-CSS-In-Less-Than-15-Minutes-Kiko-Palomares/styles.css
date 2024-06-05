@@ -40,3 +40,8 @@ h1 {
 .text-justify {
     text-align: justify;
 }
+
+p {
+    margin: 10px;
+    font-size: 20px;
+}
