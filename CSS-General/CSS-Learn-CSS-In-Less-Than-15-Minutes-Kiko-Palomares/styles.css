@@ -1,9 +1,10 @@
 body {
-    background-color: crimson;
+    background-color: lightblue;
 }
 
 h1 {
     color: red;
+    background-color: darkmagenta;
 }
 
 #header3 {
