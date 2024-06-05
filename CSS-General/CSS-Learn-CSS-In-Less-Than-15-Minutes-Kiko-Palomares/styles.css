@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+}
+
 body {
     background-color: lightblue;
 }
@@ -5,6 +9,8 @@ body {
 h1 {
     color: red;
     background-color: darkmagenta;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 #header3 {
