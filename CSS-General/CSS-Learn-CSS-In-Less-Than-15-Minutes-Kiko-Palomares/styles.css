@@ -3,7 +3,6 @@
 }
 
 body {
-    background-color: lightblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -73,4 +72,11 @@ p {
     width: 25%;
     height: 400px;
     background-color: khaki;
+}
+
+.content {
+    float: left;
+    width: 75%;
+    height: 400px;
+    background-color: lightblue;
 }
