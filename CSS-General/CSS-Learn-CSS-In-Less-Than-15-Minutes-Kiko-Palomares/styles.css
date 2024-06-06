@@ -67,3 +67,10 @@ p {
     height: 40px;
     width: 100%;
 }
+
+.sidebar {
+    float: left;
+    width: 25%;
+    height: 400px;
+    background-color: khaki;
+}
