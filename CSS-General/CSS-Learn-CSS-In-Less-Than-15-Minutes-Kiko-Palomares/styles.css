@@ -52,3 +52,9 @@ p {
     color: red;
     font-weight: bold;
 }
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}
