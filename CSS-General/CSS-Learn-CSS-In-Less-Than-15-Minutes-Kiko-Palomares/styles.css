@@ -49,3 +49,7 @@ p {
     font-weight: bold;
     font-style: italic;
 }
+
+.text-danger {
+    color: red;
+}
